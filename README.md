@@ -226,13 +226,14 @@ p.note { display: none; }
     
 
 <br><br>
-<h2><span class="yellow">もう一つ 第6回MBGリラックス音楽会のまいてゃさんパート<br>曲名
-00:00 美しきダンサー
-05:28 聖なる夜に願う事
-09:57 機動戦士の翼
-14:05 クリスマスマスイブの奇跡
-17:29 憂鬱なふりのクリスマス
-21:06 ゴールドゴージャスカクテルナイト</span></h2>
+<h2><span class="yellow">もう一つ 第6回MBGリラックス音楽会のまいてゃさんパート
+<br>曲名
+<br>00:00 美しきダンサー
+<br>05:28 聖なる夜に願う事
+<br>09:57 機動戦士の翼
+<br>14:05 クリスマスマスイブの奇跡
+<br>17:29 憂鬱なふりのクリスマス
+<br>21:06 ゴールドゴージャスカクテルナイト</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-MJ7VjKAChU?si=B5lU7igVJcOUACTG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 <!--
