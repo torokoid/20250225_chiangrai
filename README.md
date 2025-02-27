@@ -173,7 +173,7 @@ p.note { display: none; }
 <h2><span class="yellow">市場内での商売は子育てしながら</span></h2>
 <a href="20250225_017.JPG" target="_blank"><img src="20250225_017.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">市場ばいつも大盛況</span></h2>
+<h2><span class="yellow">市場はいつも大盛況</span></h2>
 <a href="20250225_018.JPG" target="_blank"><img src="20250225_018.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">宝くじ売り場が大々的でした</span></h2>
